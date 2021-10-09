@@ -1,0 +1,5 @@
+Final Project 
+
+Twitter Sentiment Analysis and Bitcoin price prediction. 
+
+Hypothesis: Can the twitter sentiment drive bitcoin prices?
